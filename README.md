@@ -58,6 +58,7 @@ We don't want our guys to work for more time we want them to be productive.
 So make of implement few things. Depending on the task allocate a time for fun tasks.
 
 We have divided them as days into policies. 
+
 + Monday Movie (6-9PM)
 + Tuesday Treking (6-11AM)
 + Wednesday Discussion(6-8PM)
@@ -67,6 +68,7 @@ We have divided them as days into policies.
 + Sunday - Do nothing or Get together with family/friends.
 
 Best is to make them policies based on the week. 
+
 + Ping-Pong table
 + Pool table
 + Carrom Board
@@ -76,5 +78,4 @@ Best is to make them policies based on the week.
 + Celebrating Cultural and Seasons.
 
 
-
-* - In our case we would I to support local brands for food. But it might change depending on the trust and quality.
+<pre>* - In our case we would I to support local brands for food. But it might change depending on the trust and quality.</pre>  
